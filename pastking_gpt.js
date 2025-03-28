@@ -153,7 +153,7 @@ function ChucklePostAI(AI_option) {
       const title = document.title;
       
       try {
-        const response = await fetch('替换成你自己的后端接口', {
+        const response = await fetch('https://summary.qixing1217.top/api/summary?token=57X8Ht6R9a8GX548ggS', {
           method: "POST",
           headers: {
             "Content-Type": "application/json",

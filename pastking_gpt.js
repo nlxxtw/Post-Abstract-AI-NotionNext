@@ -18,8 +18,8 @@ function ChucklePostAI(AI_option) {
               <path fill="#ffffff" d="M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2M12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12A8,8 0 0,0 12,4M12,6A6,6 0 0,1 18,12A6,6 0 0,1 12,18A6,6 0 0,1 6,12A6,6 0 0,1 12,6M12,8A4,4 0 0,0 8,12A4,4 0 0,0 12,16A4,4 0 0,0 16,12A4,4 0 0,0 12,8Z" />
             </svg>
           </div>
-          <div class="ai-title">AI智能摘要</div>
-          <div class="ai-tag">GPT</div>
+          <div class="ai-title">智能摘要</div>
+          <div class="ai-tag">zdDownGPT</div>
         </div>
         <div class="ai-content">
           <div class="ai-explanation">生成中...<span class="blinking-cursor"></span></div>

@@ -19,7 +19,7 @@ function ChucklePostAI(AI_option) {
             </svg>
           </div>
           <div class="ai-title">摘要</div>
-          <div class="ai-tag">zdDown</div>
+          <div class="ai-tag">GPT</div>
         </div>
         <div class="ai-content">
           <div class="ai-explanation">生成中...<span class="blinking-cursor"></span></div>
